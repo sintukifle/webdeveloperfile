@@ -1,0 +1,15 @@
+#demo {
+    color: blue;
+    font-size: large;
+    background-color: red;
+    animation:backwards;
+}
+.new1{
+    background-color: blueviolet;
+    font-size: 20px;
+}
+body {
+    background-color: blue;
+    font-style: italic;
+
+}
